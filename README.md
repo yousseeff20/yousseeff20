@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on <a href="https://www.linkedin.com/in/yousefasharf" target="blank">LinkedIn</a>
 
-- 💬 Ask me about **C# , Javascript , SQL , .Net API , .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce**
+- 💬 Ask me about **C# , Javascript , SQL Server , .Net API , .NET MVC , CSS , Bootstrap, HTML , **
 
 - 📫 How to reach me <a href="mailto:yousef2100175@fci.sohag.edu.eg" target="blank">Email</a>
 
