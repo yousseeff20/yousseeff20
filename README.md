@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseeff20&label=Profile%20views&color=0e75b6&style=flat" alt="yousseeff20" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseeff20" alt="yousseeff20" /></a> </p>
-- 🌱 I’m currently learning **Docker , angular**
+- 🌱 I’m currently learning **dotNet**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/yousseeff20" target="blank" >GitHub</a>
 
