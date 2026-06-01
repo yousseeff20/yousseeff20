@@ -1,8 +1,7 @@
 # 💫 About Me..:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousseeff20&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yousseeff20=anuraghazra&hide=contribs,prs)
+
 - 🌱 I’m currently learning **dotNet**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/yousseeff20" target="blank" >GitHub</a>
