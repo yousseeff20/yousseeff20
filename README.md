@@ -14,32 +14,43 @@
 
 ## 💫 About Me
 
-💻 Full-Stack .NET Developer passionate about building scalable and modern web applications.
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Computer Science Student at Faculty of Computers and Artificial Intelligence, Sohag University.
+🎓 **Computer Science Student** at **Faculty of Computers and Artificial Intelligence, Sohag University**.
 
-🚀 I enjoy designing clean architectures, developing RESTful APIs, and creating responsive user interfaces.
+💻 Passionate about building **scalable, secure, and high-performance web applications** using the **Microsoft .NET ecosystem**.
 
-🌱 Currently Learning
+🚀 Currently focusing on **ASP.NET Core** for backend development while expanding my frontend expertise with **Angular** to become a **Full-Stack .NET Developer**.
 
-- ASP.NET Core
-- Angular
-- Clean Architecture
-- Azure Cloud
-- Microservices
-- System Design
+### 🌱 Currently Learning
 
-🎯 Current Goals
+- ⚡ ASP.NET Core Advanced
+- 🅰️ Angular
+- 🏗️ Clean Architecture
+- ☁️ Azure Cloud
+- 🐳 Docker
+- 🔄 Microservices
+- 📐 System Design
 
-- 🚀 Backend / Full-Stack .NET Internship
-- ⭐ Build production-ready applications
-- ☁ Master Azure Cloud
-- 🤝 Contribute to Open Source
+### 🛠️ Core Skills
 
-⚡ Fun Fact
+- 💙 C# & .NET
+- 🌐 ASP.NET Core Web API
+- 🗄️ SQL Server & Entity Framework Core
+- 🔐 Authentication & Authorization (JWT)
+- ⚛️ React & Angular
+- ☁️ Azure & GitHub
 
-> I believe consistency beats talent.
----
+### 🎯 2026 Goals
+
+- 🚀 Secure a **Full-Stack .NET Internship**
+- 📦 Build production-ready applications
+- 🌍 Contribute to Open Source
+- 📚 Continuously learn and improve every day
+
+> ⚡ **Fun Fact:** *"Consistency beats talent when talent doesn't stay consistent."*
+
+<br clear="right"/>
 
 # 🌍 Connect With Me
 
