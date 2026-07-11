@@ -231,10 +231,10 @@ Issue Tracking & Project Management platform designed to simplify collaboration 
 <p align="center">
 
 <img height="170"
-src="[https://github-readme-stats.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-one-bice.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true)"/>
+src="https://github-readme-stats-one-bice.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170"
-src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true)"/>
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
