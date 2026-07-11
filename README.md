@@ -250,15 +250,17 @@ Issue Tracking & Project Management platform designed to simplify collaboration 
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Highlights
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yousseeff20&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousseeff20&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousseeff20&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousseeff20&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousseeff20&theme=tokyonight" />
+</p>
 
 # 📈 Contribution Graph
 
