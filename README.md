@@ -92,7 +92,6 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 
