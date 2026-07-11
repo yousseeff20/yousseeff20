@@ -226,27 +226,27 @@ Issue Tracking & Project Management platform designed to simplify collaboration 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats-one-bice.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170"
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+ر
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=yousseeff20&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-</p>
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
