@@ -1,42 +1,234 @@
-# 💫 About Me..:
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseeff20&label=Profile%20views&color=0e75b6&style=flat" alt="yousseeff20" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseeff20" alt="yousseeff20" /></a> </p>
+# Hi there, I'm Youssef Ashraf 👋
 
-- 🌱 I’m currently learning **dotNet**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;Computer+Science+Student;ASP.NET+Core+Enthusiast;Always+Learning+New+Technologies" />
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/yousseeff20" target="blank" >GitHub</a>
+<img src="https://komarev.com/ghpvc/?username=yousseeff20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/yousefasharf" target="blank">LinkedIn</a>
+</div>
 
-- 💬 Ask me about **C# , Javascript , SQL Server , .Net API , .NET MVC , CSS , Bootstrap, HTML , **
+---
 
-- 📫 How to reach me <a href="mailto:yousef2100175@fci.sohag.edu.eg" target="blank">Email</a>
+# 💫 About Me
 
+🎓 Computer Science Student at **Faculty of Computers and Artificial Intelligence, Sohag University**
 
->Resume</a>
-- ⚡ Fun fact **I never give up**
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/usefil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/us_ef_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefasharf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef2100175@fci.sohag.edu.eg) 
+💻 Passionate about building scalable and maintainable backend applications using **ASP.NET Core**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yousseeff20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseeff20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=yousseeff20&theme=dark&hide_border=false)<br/>
+🚀 Interested in **Clean Architecture, REST APIs, SQL Server, Azure, and Software Engineering Best Practices**.
 
+🌱 Currently improving my knowledge in
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ASP.NET Core
+- Clean Architecture
+- Microservices
+- Azure Cloud
+- System Design
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yousseeff20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎯 Goal
 
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+> Become a professional Backend .NET Engineer and contribute to impactful software products.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:yousef2100175@fci.sohag.edu.eg">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yousefasharf">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://usef-ashraf.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/yousseeff20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css"/>
+
+</p>
+
+### Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker,azure,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Portfolio Management
+
+A modern **full-stack portfolio management platform** built with **ASP.NET Core** and **React**.
+
+✨ Features
+
+- Authentication
+- Responsive UI
+- RESTful APIs
+- SQL Server Database
+- Clean Architecture
+- Azure Deployment
+
+🔗 Repository
+
+https://github.com/yousseeff20/PortfolioManagement
+
+---
+
+## 🍔 FoodieX Backend MVP
+
+Production-ready backend for a multi-vendor food ordering platform.
+
+✨ Features
+
+- JWT Authentication
+- Restaurant Management
+- Orders
+- Payments
+- Notifications
+- Clean Architecture
+- Hangfire
+- SQL Server
+
+🔗 Repository
+
+https://github.com/yousseeff20/FoodieX_Backend_MVP
+
+---
+
+## 🛠 FixPy
+
+Issue tracking and project management platform.
+
+✨ Features
+
+- Bug Tracking
+- Task Management
+- Team Collaboration
+- REST APIs
+- Authentication
+
+🔗 Repository
+
+https://github.com/yousseeff20/fixpy
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousseeff20&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseeff20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yousseeff20&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yousseeff20&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousseeff20&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yousseeff20/yousseeff20/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💻 Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+# ☕ Fun Fact
+
+```csharp
+while(!success)
+{
+    Learn();
+    Practice();
+    Build();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+</div>
