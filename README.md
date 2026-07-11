@@ -14,33 +14,31 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+💻 Full-Stack .NET Developer passionate about building scalable and modern web applications.
 
-🎓 Computer Science Student at **Faculty of Computers and Artificial Intelligence – Sohag University**
+🎓 Computer Science Student at Faculty of Computers and Artificial Intelligence, Sohag University.
 
-💙 Passionate about **Backend Development** using **ASP.NET Core** and modern Microsoft technologies.
+🚀 I enjoy designing clean architectures, developing RESTful APIs, and creating responsive user interfaces.
 
-🚀 I enjoy designing scalable REST APIs, solving real-world problems, and building maintainable software using Clean Architecture.
+🌱 Currently Learning
 
-🌱 Currently learning
-
-- ASP.NET Core Advanced
+- ASP.NET Core
+- Angular
 - Clean Architecture
 - Azure Cloud
 - Microservices
 - System Design
 
-🎯 2026 Goals
+🎯 Current Goals
 
-- Land a Backend .NET Internship
-- Master ASP.NET Core
-- Build production-ready projects
-- Contribute to Open Source
+- 🚀 Backend / Full-Stack .NET Internship
+- ⭐ Build production-ready applications
+- ☁ Master Azure Cloud
+- 🤝 Contribute to Open Source
 
 ⚡ Fun Fact
 
 > I believe consistency beats talent.
-
 ---
 
 # 🌍 Connect With Me
