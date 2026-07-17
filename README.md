@@ -232,12 +232,6 @@ Issue Tracking & Project Management platform designed to simplify collaboration 
 
 </p>
 
----
-
-ر
-
----
-
 # 📊 GitHub Analytics
 
 <table>
@@ -298,42 +292,7 @@ Issue Tracking & Project Management platform designed to simplify collaboration 
 
 </p>
 
----
-# 🐍 Contribution Snake
 
-> **This animation requires the GitHub Action below to be enabled.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yousseeff20/yousseeff20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ☕ Daily Motivation
-
-```csharp
-while (!success)
-{
-    Learn();
-    Practice();
-    Build();
-    Improve();
-}
-```
-
----
 
 # 📈 My Development Philosophy
 
